@@ -9,5 +9,5 @@ Empêcher db d’être accessible directement depuis l’hôte, mais rendre l’
 
 
 
-j'ai modifié le fichier compose.yml j'ai ajouté le service mariadb
+j'ai modifié le fichier compose.yml j'ai ajouté le service mariadb et le service
 
